@@ -55,7 +55,7 @@ The machine learning models considered to train the dataset in this project are 
 ## 👨‍💻 To run (locally)
 1. Import this repository using git command
 ```
-git clone https://github.com/sinoymanna/Phishing-Attack-Domain-Detection.git
+git clone https://github.com/sinoymanna/Phishing-Attack-Domain-Detection-Using_Machine-Learning.git
 ```
 2. Install all the required dependencies inside a virtual environment
 ```

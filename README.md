@@ -41,7 +41,6 @@ The below mentioned category of features are extracted from the URL data :
  All together 18 features are extracted from each url of the dataset.
 
 
-#### (For Further information about the features see the ['Phishing Websites Features.docx'](https://archive.ics.uci.edu/ml/machine-learning-databases/00327/) .
 
 ## Model Training
 
